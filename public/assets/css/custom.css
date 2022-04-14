@@ -1,0 +1,453 @@
+    .error {
+        color: red;
+    }
+    
+    .users-l {
+        display: block !important;
+    }
+    
+    .qr-l {
+        display: block !important;
+    }
+    
+    .session-l {
+        display: block !important;
+    }
+    
+    #example_filter input {
+        display: block;
+    }
+    
+    #entry_records_filter input {
+        display: block !important;
+    }
+    
+    #exit_records_filter input {
+        display: block !important;
+    }
+    
+    #locker_records_filter input {
+        display: block !important;
+    }
+    
+    @media (max-width: 1850px) {
+        .m-f {
+            width: 100%;
+        }
+    }
+    
+    @media (max-width: 1366px) {
+        .m-f {
+            width: 100%;
+        }
+    }
+    
+    @media (max-width: 1233px) {
+        .m-f {
+            width: 100%;
+        }
+    }
+    
+    @media (max-width: 1217px) {
+        .m-f {
+            width: 100%;
+        }
+    }
+    
+    @media (max-width: 1121px) {
+        .m-f {
+            width: 100%;
+        }
+    }
+    
+    @media (max-width: 320px) {
+        .m-f {
+            width: 100%;
+        }
+        .u-t {
+            width: 100%;
+        }
+        div#booking_records_filter input {
+            display: block;
+        }
+        #example_filter input {
+            display: block;
+        }
+        .s-t {
+            width: 100%;
+        }
+        #session_filter input {
+            display: block;
+        }
+        .s-btn {
+            margin-bottom: 7px;
+        }
+        #ticket_records_filter input {
+            display: block !important;
+        }
+        #locker_records_filter input {
+            display: block !important;
+        }
+    }
+    
+    @media (max-width: 768px) {
+        .m-f {
+            width: 100%;
+        }
+        .u-t {
+            width: 100%;
+        }
+        .s-t {
+            width: 100%;
+        }
+        .s-btn {
+            font-size: 7px;
+        }
+        .t-t {
+            width: 100%;
+        }
+        .t-b {
+            font-size: 9px;
+        }
+        #entry_records_filter input {
+            display: block;
+            width: 100%;
+        }
+        #exit_records_filter input {
+            display: block;
+            width: 100%;
+        }
+        #ticket_records_filter input {
+            display: block;
+            width: 100%;
+        }
+        #locker_records_filter input {
+            display: block;
+            width: 100%;
+        }
+    }
+    
+    @media (max-width: 1024px) {
+        .m-f {
+            width: 100%;
+        }
+        #locker_records_filter input {
+            display: block;
+            width: 100%;
+        }
+        .s-t {
+            width: 100%;
+        }
+    }
+    
+    @media (max-width: 540px) {
+        .m-f {
+            width: 100%;
+        }
+        /* .u-t {
+        width: 100%;
+    } */
+        .s-t {
+            width: 100%;
+        }
+        .counter {
+            width: 100%;
+            text-align: center;
+        }
+        .entry-counter-header {
+            margin-top: 5px;
+        }
+        .exit-counter-header {
+            margin-top: 5px;
+        }
+    }
+    
+    @media (max-width: 1024px) {
+        .m-f {
+            width: 100%;
+        }
+        /* .u-t {
+        width: 100%;
+    } */
+        .s-t {
+            width: 100%;
+        }
+    }
+    
+    @media (max-width: 360px) {
+        .m-f {
+            width: 100%;
+        }
+        .u-t {
+            width: 100%;
+        }
+        .s-t {
+            width: 100%;
+        }
+        .counter {
+            width: 100%;
+            text-align: center;
+        }
+        .entry-counter-header {
+            margin-top: 5px;
+        }
+        .exit-counter-header {
+            margin-top: 5px;
+        }
+    }
+    
+    @media (max-width: 411px) {
+        .counter {
+            width: 100%;
+            text-align: center;
+        }
+        .entry-counter-header {
+            margin-top: 5px;
+        }
+        .exit-counter-header {
+            margin-top: 5px;
+        }
+    }
+    
+    @media (max-width: 414px) {
+        .counter {
+            width: 100%;
+            text-align: center;
+        }
+        .entry-counter-header {
+            margin-top: 5px;
+        }
+        .exit-counter-header {
+            margin-top: 5px;
+        }
+    }
+    
+    @media (max-width: 1144px) {
+        .m-f {
+            width: 100%;
+        }
+    }
+    
+    @media (max-width: 1107px) {
+        .m-f {
+            width: 100%;
+        }
+    }
+    
+    @media (max-width: 966px) {
+        .m-f {
+            width: 100%;
+        }
+    }
+    
+    @media (max-width: 686px) {
+        .m-f {
+            width: 100%;
+        }
+    }
+    
+    @media (max-width: 539px) {
+        .m-f {
+            width: 100%;
+        }
+    }
+    
+    @media (max-width: 470px) {
+        .m-f {
+            width: 100%;
+        }
+    }
+    
+    @media (max-width: 369px) {
+        .m-f {
+            width: 100%;
+        }
+    }
+    
+    @media (max-width: 375px) {
+        .s-btn {
+            margin-bottom: 7px;
+        }
+    }
+    
+    @media (max-width: 280px) {
+        .m-f {
+            width: 100%;
+        }
+        #delBtn {
+            font-size: 10px;
+            margin-bottom: 5px;
+        }
+        #booking_records_filter input {
+            display: block;
+        }
+        #example_filter input {
+            display: block;
+            width: 100%;
+        }
+        .s-t {
+            width: 100%;
+        }
+        #session_filter input {
+            display: block;
+            width: 100%;
+        }
+        .s-s {
+            width: 100%;
+        }
+        #ticket_filter input {
+            display: block;
+            width: 100%;
+        }
+        #entry_records_filter input {
+            display: block !important;
+            width: 100%;
+        }
+        #exit_records_filter input {
+            display: block !important;
+            width: 100%;
+        }
+        #ticket_records_filter input {
+            display: block !important;
+            width: 100%;
+        }
+        #locker_records_filter input {
+            display: block !important;
+            width: 100%;
+        }
+    }
+    
+    .center {
+        margin: 0 auto;
+        text-align: center;
+    }
+    
+    .spacer {
+        margin-top: 6rem;
+    }
+    /* barcode container */
+    
+    .anim-box {
+        position: relative;
+        width: 300px;
+        height: 100px;
+        padding: 25px 30px;
+        transition: transform .6s ease-out;
+        /* padding-right: 50px; */
+    }
+    /* adds the 4 corners */
+    
+    .anim-box:before,
+    .anim-box:after,
+    .anim-box>:first-child:before,
+    .anim-box>:first-child:after {
+        position: absolute;
+        width: 5%;
+        height: 15%;
+        border-color: white;
+        border-style: solid;
+        content: ' ';
+    }
+    /* top left corner */
+    
+    .anim-box:before {
+        top: 0;
+        left: 0;
+        border-width: 2px 0 0 2px;
+    }
+    /* top right corner */
+    
+    .anim-box:after {
+        top: 0;
+        right: 0;
+        border-width: 2px 2px 0 0;
+    }
+    /* bottom right corner */
+    
+    .anim-box>:first-child:before {
+        bottom: 0;
+        right: 0;
+        border-width: 0 2px 2px 0;
+    }
+    /* bottom left corner */
+    
+    .anim-box>:first-child:after {
+        bottom: 0;
+        left: 0;
+        border-width: 0 0 2px 2px;
+    }
+    /* barcode bars */
+    
+    .anim-item {
+        display: inline-block;
+        background-color: black;
+        height: 100px;
+    }
+    
+    .anim-item-sm {
+        width: 2px;
+        margin-right: 3px;
+    }
+    
+    .anim-item-md {
+        width: 3px;
+        margin-right: 2px;
+    }
+    
+    .anim-item-lg {
+        width: 5px;
+        margin-right: 5px;
+    }
+    /* grow on hover */
+    
+    .anim-box:hover {
+        transform: scale(1.5, 2);
+    }
+    
+    .anim-box:hover .scanner {
+        animation-play-state: running;
+    }
+    /* animated laser beam */
+    
+    .scanner {
+        width: 100%;
+        height: 3px;
+        background-color: red;
+        opacity: 0.7;
+        position: relative;
+        box-shadow: 0px 0px 8px 10px rgba(170, 11, 23, 0.49);
+        top: 50%;
+        animation-name: scan;
+        animation-duration: 1s;
+        animation-timing-function: linear;
+        animation-iteration-count: infinite;
+        animation-play-state: paused;
+    }
+    
+    @keyframes scan {
+        0% {
+            box-shadow: 0px 0px 8px 10px rgba(170, 11, 23, 0.49);
+            top: 120%;
+        }
+        25% {
+            box-shadow: 0px 6px 8px 10px rgba(170, 11, 23, 0.49);
+            top: 25%;
+        }
+        75% {
+            box-shadow: 0px -6px 8px 10px rgba(170, 11, 23, 0.49);
+            top: 190%;
+        }
+    }
+    
+    @media (max-width: 767px) {
+        .anim-box {
+            margin-right: 32px;
+            position: relative;
+            width: 263px !important;
+            height: 100px;
+            /* padding: 25px 30px; */
+            transition: transform .6s ease-out;
+            /* padding-right: 50px; */
+        }
+    }
+    /* @media (max-width) */
